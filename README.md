@@ -87,10 +87,3 @@ If you wish to contribute to the project, feel free to fork the repository and s
 
 This project is open-source and available under the MIT License.
 
-## Contact
-
-For any questions or suggestions, please open an issue in the repository.
-
----
-
-This `README.md` file provides all necessary information to understand, set up, and play the Space Invader game. Make sure to follow the instructions carefully to get the game up and running.
