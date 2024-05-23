@@ -9,10 +9,6 @@ This is a simple Space Invader game developed using Python and Pygame. The game 
 - Multiple enemies that move and respawn after being shot.
 - Score display and game over screen.
 
-## Requirements
-
-- Python 3.x
-- Pygame library
 
 ## Installation
 
