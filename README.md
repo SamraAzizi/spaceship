@@ -83,7 +83,3 @@ The main game loop updates the game state, including player and enemy positions,
 
 If you wish to contribute to the project, feel free to fork the repository and submit a pull request.
 
-## License
-
-This project is open-source and available under the MIT License.
-
